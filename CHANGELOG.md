@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Added
+- asdasd
 - Command `zenio help`
 - `zenio help` command is executed by default when a command is not specified
 
